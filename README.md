@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, My name is Daniel</h1>
-<h3 align="center">I'm an informatics graduate student with interests in big data and cybersecurity (Red team)</h3>
+<h3 align="center">I'm an informatics graduate student with interests in data analytics, software development and cybersecurity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danieljanowicz&label=Profile%20views&color=0e75b6&style=flat" alt="danieljanowicz" /> </p>
 
 - 🔭 I’m currently working on [frontend development](https://github.com/DanielJanowicz/BetterParts)
 
-- 🌱 I’m currently learning **front/backend frameworks, database management**
+- 🌱 I’m currently learning **front/backend frameworks, database management, api services and white hat hacking**
 
 - 👯 I’m looking to collaborate on [healthcare related research](https://github.com/DanielJanowicz/pt_noshow_enhanced)
 
-- 👨‍💻 All of my projects are available at [https://github.com/DanielJanowicz?tab=repositories](https://github.com/DanielJanowicz?tab=repositories)
+- 👨‍💻 All of my projects are available on my [repositories](https://github.com/DanielJanowicz?tab=repositories)
 
-- 📝 I regularly get information from [https://www.healthcareitnews.com/](https://www.healthcareitnews.com/)
+- 📝 I regularly get information from [healthcareitnews](https://www.healthcareitnews.com/)
 
 <p align="left">
 </p>
