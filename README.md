@@ -13,7 +13,6 @@
 
 - 📝 I regularly get information from [https://www.healthcareitnews.com/](https://www.healthcareitnews.com/)
 
-<h3 align="left">Connect with me: [https://www.linkedin.com/in/daniel-janowicz-6a2645231/](https://www.linkedin.com/in/daniel-janowicz-6a2645231/) </h3>
 <p align="left">
 </p>
 
