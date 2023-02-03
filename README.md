@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danieljanowicz&label=Profile%20views&color=0e75b6&style=flat" alt="danieljanowicz" /> </p>
 
-- 🔭 I’m currently working on [frontend development](https://github.com/DanielJanowicz/BetterParts)
+- 🔭 I’m currently working on [readmission rates for diabetic patients](https://github.com/DanielJanowicz/diabetic_readmission)
 
-- 🌱 I’m currently learning **front/backend frameworks, database management, api services and white hat hacking**
+- 🌱 I’m currently learning **front/backend frameworks, database management and api services**
 
 - 👯 I’m looking to collaborate on [healthcare related research](https://github.com/DanielJanowicz/pt_noshow_enhanced)
 
