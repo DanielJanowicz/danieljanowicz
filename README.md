@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, My name is Daniel</h1>
-<h3 align="center">I'm an informatics graduate student with interests in data engineering and cybersecurity</h3>
+<h3 align="center">I'm an informatics graduate student with interests in data engineering, systems integration and cybersecurity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danieljanowicz&label=Profile%20views&color=0e75b6&style=flat" alt="danieljanowicz" /> </p>
 
 - 🔭 I’m currently working on [readmission rates for diabetic patients](https://github.com/DanielJanowicz/diabetic_readmission)
 
-- 🌱 I’m currently learning **react, SQL, typescript and data visualization**
+- 🌱 I’m currently learning **SQL, HL7 (interfaces), Data Visualization, & Artificial Intelligence (Use cases in Healthcare)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DanielJanowicz](https://github.com/DanielJanowicz)
 
